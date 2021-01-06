@@ -1,0 +1,76 @@
+
+#homeBtn , #reportBtn ,#aboutBtn:hover{
+  cursor: pointer;
+}
+
+
+.modal-body li{
+  color: #2196F3;
+  font-family: 'Fondamento', cursive;
+  font-size: larger;
+  font-weight: bold;
+  
+}
+.modal-body li:hover{
+  color: red;
+  cursor: pointer;
+  font-size: x-large;
+}
+
+#modalSaveBtn{
+  opacity: 0.2;
+}
+#cryptoPic{
+  position: absolute;
+  right: 0;
+  top: 115px;
+  height: 130px;
+}
+
+  .card{
+    opacity: 0.9;
+  }
+
+.modal{
+  display: inline-block;
+}
+.inputs{
+  position: absolute;
+  right: 15px;
+  height: 40px;
+}
+
+.all{
+  overflow: hidden;
+}
+
+
+.custom-control{
+ padding-left: 100%;
+ 
+ 
+}
+
+.jumbotron, .jumbotron-fluid{
+  margin-bottom: 0;
+  
+}
+.canvasContainer{
+  width: 70%;
+  
+  background-color: lightgray;
+}
+.all{
+background-image: url(1.jpg);
+background-size: cover;
+}
+.cont{
+  background-attachment: fixed;
+}
+#searchAlert{
+  position: absolute;
+  top: 250px;
+  margin-left: 40vw;
+
+  
+}
